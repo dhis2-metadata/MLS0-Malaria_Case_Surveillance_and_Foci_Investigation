@@ -1,2 +1,2 @@
-# MALCS-Malaria_Case_Surveillance_and_Foci_Investigation
+# MLS0-Malaria_Case_Surveillance_and_Foci_Investigation
 Malaria Case Surveillance and Foci Investigation Tracker Packages
