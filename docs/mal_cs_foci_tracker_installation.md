@@ -4,14 +4,21 @@ This document includes an installation guide for the Rehabilitation aggregate pa
 
 System default language: English
 
-Available translations: French, Spanish, Portuguese, Arabic
-
 ## Overview
 
 === "DHIS2.35"
 
     ```json
     "package": {
+        "DHIS2Build": "834b25f",
+        "DHIS2Version": "2.35.8",
+        "code": "MLS000",
+        "description": "",
+        "lastUpdated": "20211209T152354",
+        "locale": "en",
+        "name": "MLS000_0.1.0_DHIS2.35",
+        "type": "TKR",
+        "version": "0.1.0"
     }
     ```
 
@@ -19,13 +26,31 @@ Available translations: French, Spanish, Portuguese, Arabic
 
     ```json
     "package": {
+        "DHIS2Build": "2adf10b",
+        "DHIS2Version": "2.36.4",
+        "code": "MLS000",
+        "description": "",
+        "lastUpdated": "20211210T125113",
+        "locale": "en",
+        "name": "MLS000_0.1.0_DHIS2.36",
+        "type": "TKR",
+        "version": "0.1.0"
     }
     ```
 === "DHIS2.37"
 
     ```json
     "package": {
-    }
+        "DHIS2Build": "b8d4ef3",
+        "DHIS2Version": "2.37.0",
+        "code": "MLS000",
+        "description": "",
+        "lastUpdated": "20211210T125205",
+        "locale": "en",
+        "name": "MLS000_0.1.0_DHIS2.37",
+        "type": "TKR",
+        "version": "0.1.0"
+    },
     ```
 
 ## Installation
@@ -55,6 +80,8 @@ Great care should be taken to ensure that the server itself and the DHIS2 applic
 While not always necessary, it can often be advantageous to make certain modifications to the metadata file before importing it into DHIS2.
 
 ## Preparing the Metadata File
+
+It is required to apply some changes to the metadata file before it can be imported. The scope of work may vary from package to package.
 
 ### Default data dimension
 
