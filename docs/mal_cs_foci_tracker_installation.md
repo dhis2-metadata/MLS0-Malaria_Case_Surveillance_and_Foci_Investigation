@@ -39,6 +39,7 @@ The package metadata json files contain a "package" component that provides tech
         "version": "0.1.0"
     }
     ```
+
 === "DHIS2.37"
 
     ```json
