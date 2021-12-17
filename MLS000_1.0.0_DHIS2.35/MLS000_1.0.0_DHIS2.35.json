@@ -25547,9 +25547,9 @@
         "description": "",
         "lastUpdated": "20211209T152354",
         "locale": "en",
-        "name": "MLS000_0.1.0_DHIS2.35",
+        "name": "MLS000_1.0.0_DHIS2.35",
         "type": "TKR",
-        "version": "0.1.0"
+        "version": "1.0.0"
     },
     "predictorGroups": [],
     "predictors": [],
