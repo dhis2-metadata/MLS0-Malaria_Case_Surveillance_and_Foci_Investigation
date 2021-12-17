@@ -18,9 +18,9 @@ The package metadata json files contain a "package" component that provides tech
         "description": "",
         "lastUpdated": "20211209T152354",
         "locale": "en",
-        "name": "MLS000_0.1.0_DHIS2.35",
+        "name": "MLS000_1.0.0_DHIS2.35",
         "type": "TKR",
-        "version": "0.1.0"
+        "version": "1.0.0"
     }
     ```
 
@@ -34,9 +34,9 @@ The package metadata json files contain a "package" component that provides tech
         "description": "",
         "lastUpdated": "20211210T125113",
         "locale": "en",
-        "name": "MLS000_0.1.0_DHIS2.36",
+        "name": "MLS000_1.0.0_DHIS2.36",
         "type": "TKR",
-        "version": "0.1.0"
+        "version": "1.0.0"
     }
     ```
 
@@ -50,9 +50,9 @@ The package metadata json files contain a "package" component that provides tech
         "description": "",
         "lastUpdated": "20211210T125205",
         "locale": "en",
-        "name": "MLS000_0.1.0_DHIS2.37",
+        "name": "MLS000_1.0.0_DHIS2.37",
         "type": "TKR",
-        "version": "0.1.0"
+        "version": "1.0.0"
     },
     ```
 
