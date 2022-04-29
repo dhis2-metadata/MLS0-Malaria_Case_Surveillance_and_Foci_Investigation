@@ -8,7 +8,7 @@ The data elements included follow WHO-recommendations based on WHO global standa
 
 ## System Design Overview
 
-The metadata package contains two tracker programs that support case notification, case investigation, foci investigation, and classification workflows as described WHO’s [Malaria Surveillance, Monitoring and Evaluation: A reference manual Manual](https://www.who.int/publications-detail-redirect/9789241565578).
+The Malaria metadata package for individual data contains two tracker programs supporting case notification, case investigation, foci investigation, and classification workflows as described WHO’s [Malaria Surveillance, Monitoring and Evaluation: A reference manual Manual](https://www.who.int/publications-detail-redirect/9789241565578).
 
 These tracker programs are intended to be deployed together to support typical workflows for:
 
@@ -38,7 +38,7 @@ Is a registry of all foci and their classification status, as well as effective 
 
 * Dashboards
 
-In addition, there are also seven dashboards associated with these programmes that are populated with indicators from the respective programs. The programmes are made to work in tandem and fulfil different aspects of the burden reduction process and malaria elimination.
+In addition to the metadata, the package also  includes seven preconfigured yet editable dashboards. These are populated with indicators from the respective programs. The programs are made to work in tandem and fulfil different aspects of the burden reduction process and malaria elimination.
 
 ## Program structure
 
@@ -75,7 +75,7 @@ The programme is intended to be used at point of care facilities and field level
 
 ### User Groups
 
-User groups have been divided based on the program that they will be assigned to use and the function that the user is intended to perform. A user can belong to more than one user group if their functions overlap. In addition, further compartmentalisation can be made through assigning specific user groups for the different stages. Users will also need to be assigned an organisation unit.
+User groups have been divided on the basis of use and function. A user can belong to more than one user group if their functions overlap. In addition, further compartmentalisation can be made through assigning specific user groups for the different stages. Users will also need to be assigned an organisation unit.
 
 * MAL-CS: Malaria Case Notification, Investigation & Response
   1. **MAL-CS- Data Analysis:** Has access to all dashboards but cannot modify metadata or enter new data
