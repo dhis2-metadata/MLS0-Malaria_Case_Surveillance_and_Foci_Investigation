@@ -1,4 +1,4 @@
-# Malaria Elimination Case Surveillance & Foci Investigation System Design { # mal_cs_design }
+# Malaria Elimination Case Surveillance & Foci Investigation System Design { # mal-cs-design }
 
 ## Introduction
 
